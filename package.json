@@ -1,7 +1,6 @@
 {
   "name": "sequelize_basics",
   "version": "1.0.0",
-  "description": "",
   "main": "connect.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,15 @@
   "license": "ISC",
   "dependencies": {
     "mysql2": "^1.6.4",
-    "sequelize": "^4.41.2"
-  }
+    "sequelize": "^4.42.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpan1738/sequelize.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samarpan1738/sequelize/issues"
+  },
+  "homepage": "https://github.com/samarpan1738/sequelize#readme",
+  "description": ""
 }
